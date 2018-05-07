@@ -15,3 +15,8 @@ Spring Boot
 
 
 https://spring.io/guides/gs/spring-boot/
+
+
+Good Example of Spring MVC 
+
+https://spring.io/blog/2011/01/04/green-beans-getting-started-with-spring-mvc/
