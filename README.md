@@ -23,3 +23,9 @@ https://spring.io/blog/2011/01/04/green-beans-getting-started-with-spring-mvc/
 
 
 https://www.tutorialspoint.com/spring/spring_web_mvc_framework.htm
+
+
+How Spring MVC bootstraping work ?
+
+http://www.baeldung.com/bootstraping-a-web-application-with-spring-and-java-based-configuration
+
