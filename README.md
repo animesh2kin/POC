@@ -7,6 +7,8 @@ Spring Rest using MVC
 
 https://www.journaldev.com/2552/spring-rest-example-tutorial-spring-restful-web-services
 
+<U>Annotation Based :</U>
+
 http://programmergate.com/build-rest-web-service-using-spring/
 
 
