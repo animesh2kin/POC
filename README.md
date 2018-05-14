@@ -31,3 +31,8 @@ How Spring MVC bootstraping work ?
 
 http://www.baeldung.com/bootstraping-a-web-application-with-spring-and-java-based-configuration
 
+
+Spring Rest and Spring Boot 
+
+http://websystique.com/spring-boot/spring-boot-rest-api-example/
+
