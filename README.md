@@ -3,6 +3,10 @@ Restful Web Services Tutorial in Java
 
 https://www.journaldev.com/9170/restful-web-services-tutorial-java
 
+Spring MVC
+
+https://www.journaldev.com/2433/spring-mvc-tutorial
+
 Spring Rest using MVC 
 
 https://www.journaldev.com/2552/spring-rest-example-tutorial-spring-restful-web-services
