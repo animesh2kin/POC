@@ -39,5 +39,6 @@ Spring Rest and Spring Boot
 http://websystique.com/spring-boot/spring-boot-rest-api-example/
 
 Spring Component scanning with SpringBoot 
+
 https://www.baeldung.com/spring-component-scanning
 
