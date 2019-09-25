@@ -1,1 +1,2 @@
-
+Lambda
+https://beginnersbook.com/2017/01/lambda-expression-iterating-map-and-list-in-java-8/
