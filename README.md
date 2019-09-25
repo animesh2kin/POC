@@ -42,3 +42,6 @@ Spring Component scanning with SpringBoot
 
 https://www.baeldung.com/spring-component-scanning
 
+Java Lambda Function 
+https://beginnersbook.com/2017/01/lambda-expression-iterating-map-and-list-in-java-8/
+
